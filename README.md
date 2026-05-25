@@ -8,9 +8,9 @@ Full-Stack Developer • AI Builder • Problem Solver
 I build scalable full-stack applications, AI-powered tools, and impactful digital experiences focused on solving real-world problems.
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tanishka-22&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+</p> -->
 
 ---
 
@@ -103,18 +103,6 @@ AI-powered personalized email generation platform using React.js, Node.js & Clau
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=tanishka-22&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="180em" 
-  />
-  
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishka-22&layout=compact&theme=tokyonight&hide_border=true" 
-    height="180em" 
-  />
-</p>
-
-<p align="center">
-  <img 
     src="https://streak-stats.demolab.com?user=tanishka-22&theme=tokyonight&hide_border=true" 
   />
 </p>
@@ -130,16 +118,6 @@ AI-powered personalized email generation platform using React.js, Node.js & Clau
 </p>
 
 ---
-
-
-## 📅 Contribution Calendar
-
-<p align="center">
-  <img 
-    src="https://github-contributor-stats.vercel.app/api?username=tanishka-22&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" 
-  />
-</p>
-```
 
 
 ## 🌐 Portfolio & Resume
