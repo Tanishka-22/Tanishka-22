@@ -24,6 +24,7 @@ I build scalable full-stack applications, intelligent backend systems, and AI-po
 
 ---
 
+
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -46,63 +47,97 @@ I build scalable full-stack applications, intelligent backend systems, and AI-po
 
 ---
 
+
 ## 🛠️ Tech Stack
 
+<style>
+.tech-icons img {
+  width: 42px;
+  height: 42px;
+  object-fit: contain;
+  object-position: center;
+  margin-right: 10px;
+  margin-bottom: 8px;
+  vertical-align: middle;
+}
+</style>
+
 ### Languages
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+<p align="left" class="tech-icons">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42" style="object-fit:contain;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42" height="42" style="object-fit:contain;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" style="object-fit:contain;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42" height="42" style="object-fit:contain;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" height="42" style="object-fit:contain;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="42" height="42" style="object-fit:contain;"/>
 </p>
+
 JavaScript (ES6+) • TypeScript • Python • C++ • Java • SQL
 
 ### Frontend
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
+<p align="left" class="tech-icons">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="42" height="42" style="object-fit:contain;"/>
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" height="42" style="object-fit:contain;"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="42" height="42" style="object-fit:contain;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="42" height="42" style="object-fit:contain;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="42" height="42" style="object-fit:contain;"/>
 </p>
+
 React.js • Next.js • HTML5 • CSS3 • Tailwind CSS
 
 ### Backend & APIs
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
+<p align="left" class="tech-icons">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="42" height="42" style="object-fit:contain;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="42" height="42" style="object-fit:contain;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="42" height="42" style="object-fit:contain;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" width="42" height="42" style="object-fit:contain;"/>
 </p>
+
 Node.js • NestJS • Express.js • REST APIs • JWT Authentication • OAuth • API Design
 
 ### Databases & Caching
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
+<p align="left" class="tech-icons">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="42" height="42" style="object-fit:contain;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="42" height="42" style="object-fit:contain;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="42" height="42" style="object-fit:contain;"/>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="42" height="42" style="object-fit:contain;"/>
 </p>
+
 PostgreSQL • MongoDB • Redis • Firebase Firestore
-AI & Integrations
+
+### AI & Integrations
+<p align="left" class="tech-icons">
+<img src="https://cdn.simpleicons.org/openai" width="42" height="42" style="object-fit:contain;"/>
+<img src="https://cdn.simpleicons.org/anthropic" width="42" height="42" style="object-fit:contain;"/>
+</p>
+
 OpenAI API • Claude API • LLM Integration • AI-Powered Workflows
 
 ### Tools & Platforms
-<p align="left">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
+<p align="left" class="tech-icons">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="42" height="42" style="object-fit:contain;"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42" height="42" style="object-fit:contain;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="42" height="42" style="object-fit:contain;"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="42" height="42" style="object-fit:contain;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="42" height="42" style="object-fit:contain;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="42" height="42" style="object-fit:contain;"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="42" height="42" style="object-fit:contain;"/>
 </p>
-Docker • Git • GitHub Actions • CI/CD • Postman • Swagger • Jest • Azure • Agile
-Core CS
-Data Structures & Algorithms • OOP • DBMS • Operating Systems • Computer Networks • SDLC • System Design • Design Patterns
 
-### Languages
+Docker • Git • GitHub Actions • CI/CD • Postman • Swagger • Jest • Azure • Agile
+
+### Core CS
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-DSA-informational?style=flat-square" height="42" style="object-fit:contain;"/>
+<img src="https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-informational?style=flat-square" height="42" style="object-fit:contain;"/>
+<img src="https://img.shields.io/badge/DBMS-Database%20Systems-informational?style=flat-square" height="42" style="object-fit:contain;"/>
+<img src="https://img.shields.io/badge/Operating%20Systems-OS-informational?style=flat-square" height="42" style="object-fit:contain;"/>
+<img src="https://img.shields.io/badge/System%20Design-Architecture-informational?style=flat-square" height="42" style="object-fit:contain;"/>
 </p>
 
 
 ---
+
 
 ## Featured Projects
 
@@ -124,6 +159,7 @@ Full-stack workforce management platform for streamlining employee operations an
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -133,6 +169,7 @@ Full-stack workforce management platform for streamlining employee operations an
 </p>
 
 ---
+
 
 ## 🏆 GitHub Trophies
 
@@ -154,6 +191,7 @@ Full-stack workforce management platform for streamlining employee operations an
 
 ---
 
+
 ## Leadership Roles & Achievements
 
 - 🥈 Global Rank 1334 & College Rank 2 - TCS CodeVita Season 11
@@ -164,6 +202,7 @@ Full-stack workforce management platform for streamlining employee operations an
 - 💻 Former Web Developer Lead at Google Student Developer's Group at JEC.
 - 🚀 Former Executive President of JLUG (Techno-Cultural Society of College) Led a 100+ Member Technical Community, Also organized TEDx JEC
 ---
+
 
 <p align="center">
   <i>Building impactful products through engineering, design, and AI.</i>
