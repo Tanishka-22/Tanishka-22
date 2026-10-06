@@ -50,18 +50,6 @@ I build scalable full-stack applications, intelligent backend systems, and AI-po
 
 ## 🛠️ Tech Stack
 
-<style>
-.tech-icons img {
-  width: 42px;
-  height: 42px;
-  object-fit: contain;
-  object-position: center;
-  margin-right: 10px;
-  margin-bottom: 8px;
-  vertical-align: middle;
-}
-</style>
-
 ### Languages
 <p align="left" class="tech-icons">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42" style="object-fit:contain;"/>
@@ -71,7 +59,6 @@ I build scalable full-stack applications, intelligent backend systems, and AI-po
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" height="42" style="object-fit:contain;"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="42" height="42" style="object-fit:contain;"/>
 </p>
-
 JavaScript (ES6+) • TypeScript • Python • C++ • Java • SQL
 
 ### Frontend
@@ -82,7 +69,6 @@ JavaScript (ES6+) • TypeScript • Python • C++ • Java • SQL
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="42" height="42" style="object-fit:contain;"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="42" height="42" style="object-fit:contain;"/>
 </p>
-
 React.js • Next.js • HTML5 • CSS3 • Tailwind CSS
 
 ### Backend & APIs
@@ -92,7 +78,6 @@ React.js • Next.js • HTML5 • CSS3 • Tailwind CSS
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="42" height="42" style="object-fit:contain;"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" width="42" height="42" style="object-fit:contain;"/>
 </p>
-
 Node.js • NestJS • Express.js • REST APIs • JWT Authentication • OAuth • API Design
 
 ### Databases & Caching
@@ -102,7 +87,6 @@ Node.js • NestJS • Express.js • REST APIs • JWT Authentication • OAuth
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="42" height="42" style="object-fit:contain;"/>
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="42" height="42" style="object-fit:contain;"/>
 </p>
-
 PostgreSQL • MongoDB • Redis • Firebase Firestore
 
 ### AI & Integrations
@@ -110,7 +94,6 @@ PostgreSQL • MongoDB • Redis • Firebase Firestore
 <img src="https://cdn.simpleicons.org/openai" width="42" height="42" style="object-fit:contain;"/>
 <img src="https://cdn.simpleicons.org/anthropic" width="42" height="42" style="object-fit:contain;"/>
 </p>
-
 OpenAI API • Claude API • LLM Integration • AI-Powered Workflows
 
 ### Tools & Platforms
@@ -123,7 +106,6 @@ OpenAI API • Claude API • LLM Integration • AI-Powered Workflows
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="42" height="42" style="object-fit:contain;"/>
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="42" height="42" style="object-fit:contain;"/>
 </p>
-
 Docker • Git • GitHub Actions • CI/CD • Postman • Swagger • Jest • Azure • Agile
 
 ### Core CS
